@@ -49,5 +49,16 @@ I completed the NetworkWalks Wireshark SOC Lab 3 investigation and achieved 100/
 This exercise helped me practise packet filtering, TCP flag interpretation, source and destination IP identification, and basic SOC traffic investigation.
 
 ## 6. Evidence
+### 6. Evidence
 
-The GitHub repository contains three screenshots documenting TCP SYN analysis, the attacker IP investigation, and the official lab completion result.
+**TCP SYN packet analysis**
+
+![TCP SYN Analysis](Screenshot%202026-11-06%20213453.png)
+
+**Attacker IP investigation — TCP RST/ACK responses**
+
+![Attacker IP Investigation](Screenshot%202026-11-04%20222939.png)
+
+**Official NetworkWalks lab result — 100/100**
+
+![Lab Completion Result](Screenshot%202026-11-06%20221814.png)
