@@ -49,7 +49,6 @@ I completed the NetworkWalks Wireshark SOC Lab 3 investigation and achieved 100/
 This exercise helped me practise packet filtering, TCP flag interpretation, source and destination IP identification, and basic SOC traffic investigation.
 
 ## 6. Evidence
-### 6. Evidence
 
 **TCP SYN packet analysis**
 
